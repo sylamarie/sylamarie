@@ -86,7 +86,8 @@ I have hands-on experience in both frontend and backend development, including R
 ---
 
 ## 📊 GitHub Statistics
-![Syla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sylamarie&show_icons=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sylamarie&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sylamarie&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sylamarie&theme=radical)
 
 ---
 
